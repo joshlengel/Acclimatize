@@ -1,4 +1,4 @@
-![Acclimatize](https://github.com/joshlengel/Acclimatize/Acclimatize.png)
+![Acclimatize](Acclimatize.png)
 
 # Acclimatize
 
